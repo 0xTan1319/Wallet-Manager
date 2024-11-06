@@ -12,8 +12,8 @@ Wallet Manager is a powerful command-line interface wallet solution for Solana b
 
 To run Wallet Manager, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/carson2222/wallet-manager`
-2. Navigate to the project directory: `cd wallet-manager`
+1. Clone the repository: `git clone https://github.com/0xTan1319/Wallet-Manager`
+2. Navigate to the project directory: `cd Wallet-Manager`
 3. Install the dependencies: `npm i`
 4. Fill in `data.json` based on `data-template.txt`
 5. Start the application: `npm run`
@@ -47,3 +47,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - [Chalk](https://www.npmjs.com/package/chalk)
 - [QRCode-Terminal](https://www.npmjs.com/package/qrcode-terminal)
 - [Promise-retry](https://www.npmjs.com/package/promise-retry)
+
+## Contact
+
+If you have question, ask here [Telegram: shiny0103](https://t.me/shiny0103)
